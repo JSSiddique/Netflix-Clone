@@ -8,7 +8,7 @@ import { fetchMovies,getGenres } from "../store";
 import { FaPlay } from "react-icons/fa";
 import { AiOutlineInfoCircle } from "react-icons/ai";
 import Slider from "../components/Slider";
-import MovieLogo from "../assets/home.jpg"
+import MovieLogo from "../assets/homeTitle.png"
 
 
 function Netflix() {
@@ -55,8 +55,8 @@ function Netflix() {
           className="background-image"
         />
         <div className="container">
-          <div className="logo">
-           
+           <div className="logo">
+            <img src={MovieLogo} alt="Movie Logo" />
           </div>
           <div className="buttons flex">
             <button
@@ -99,8 +99,8 @@ background-color: black;
     bottom: 4rem;
     .logo {
       img {
-        width: 80%;
-        height: 80%;
+        width: 40%;
+        height: 40%;
         margin-left: 5rem;
       }
     }
