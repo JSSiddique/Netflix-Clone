@@ -10,6 +10,8 @@
   This is a clone of Netflix website built using <strong><em>React.JS</em></strong>. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
   <br><br> 
 </p>
+<img title="s1" src="public/s2.png" alt ="Screenshot" />
+  <img title="s1" src="public/s1.png" alt ="Screenshot" />
 <h1>Homepage</h1>
   <br>
 The Home Page consists of 5 main sections:
