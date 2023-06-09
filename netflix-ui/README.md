@@ -7,7 +7,7 @@
 </h1>
 
 <p><font size="3">
-  This is a clone of Netflix website built using <strong><em>React.JS</em></strong>. 
+  This is a clone of Netflix website built using <strong><em>React.JS</em></strong>. The project showcases a responsive UI with a navigation bar, interactive movie sections, and dynamic movie cards. It utilizes TMDB as the movie database and incorporates React Router, Hooks, and CSS Modules for efficient development.
   <br><br> 
 </p>
 <img title="s1" src="public/s2.png" alt ="Screenshot" />
