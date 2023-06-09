@@ -9,27 +9,13 @@
 <p><font size="3">
   This is a clone of Netflix website built using <strong><em>React.JS</em></strong>. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
   <br><br> 
-  
 </p>
-
-
-
- # Home Page
-
-<div align="center"><a name="menu"></a>
-
-![ScreenShot](/public/images/readme/5.jpg)
-![ScreenShot](/public/images/readme/6.jpg)
-![ScreenShot](/public/images/readme/7.jpg)
-![ScreenShot](/public/images/readme/8.jpg)
-![ScreenShot](/public/images/readme/9.jpg)
-![ScreenShot](/public/images/readme/10.jpg)
-</div>
-
+<h1>Homepage</h1>
+  <br>
 The Home Page consists of 5 main sections:
 
 ***1) Navbar, which includes:***
-- Logo 
+- Netflix Logo 
 
 - Home button
 
@@ -52,9 +38,10 @@ It's a slides shows the movie. It includes 4 section
 ***3) Movie Card:***
 It's an image represent the movie, when you hover over it became bigger and it will show its card feature.
 
-# Live Demo
+# Database used
+  <img title="TMDB" src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg" alt="TMDB" width="50" />  The Movie Database
 
-***Take a look on the live version here:*** https://react-netflix-clone-red.vercel.app/ :octocat: :heart_eyes: 
+//***Take a look on the live version here:*** https://react-netflix-clone-red.vercel.app/ :octocat: :heart_eyes: 
 
 
 # Technology Used
@@ -62,22 +49,34 @@ It's an image represent the movie, when you hover over it became bigger and it w
 I have built this project using the following tools & techniques:
 - React.JS
 - React Router.
-- React Forms.
 - React Hooks.
 - useState.
-- useContext.
 - useEffect.
-- useHistory.
-- useState.
-- Compound Components.
 - JSX.
 - CSS Modules.
 - VSCode.
 - Github Actions.
 - Github Pages.
 
+# Possible Improvements
+- Search page
+- Using a Machine Learning model to update the Recommanded movie section
 
+# How to run
+With the terminal available, follow the instructions below:
 
+```bash
+# Clone the repository
+$ git clone https://github.com/JSSiddique/Netflix-Clone
 
+# Access the netflix-clone-reactjs folder
+$ cd netflix-ui
 
+# Install dependencies
+$ npm install
 
+# Start application
+$ npm start
+
+# Application running on port 3000
+```
