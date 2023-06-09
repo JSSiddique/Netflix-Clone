@@ -30,14 +30,14 @@ The Home Page consists of 5 main sections:
 - More info button
 
 ***2) Movies Slides:***
-It's a slides shows the movie. It includes 4 section
+It's a slideshow showcasing a movie. It includes 4 section
 - Recommanded
 - Action
 - Sci-fi
 - Comedy
 
 ***3) Movie Card:***
-It's an image represent the movie, when you hover over it became bigger and it will show its card feature.
+It's an image representing the movie, when you hover over it enlarges and it will show its card-like feature.
 
 # Database used
   <img title="TMDB" src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg" alt="TMDB" width="50" />  The Movie Database
