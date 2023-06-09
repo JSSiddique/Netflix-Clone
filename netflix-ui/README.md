@@ -15,12 +15,11 @@
 <h1>Homepage</h1>
   <br>
 The Home Page consists of 5 main sections:
-
+ <br><br>
+ 
 ***1) Navbar, which includes:***
 - Netflix Logo 
-
 - Home button
-
 - My list
 - Search bar
 
@@ -61,7 +60,7 @@ I have built this project using the following tools & techniques:
 
 # Possible Improvements
 - Search page
-- Using a Machine Learning model to update the Recommanded movie section
+- Using a Machine Learning model to update the Recommended movie section
 
 # How to run
 With the terminal available, follow the instructions below:
