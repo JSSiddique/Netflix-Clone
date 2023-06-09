@@ -7,7 +7,7 @@
 </h1>
 
 <p><font size="3">
-  This is a clone of Netflix website built using <strong><em>React.JS</em></strong>. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
+  This is a clone of Netflix website built using <strong><em>React.JS</em></strong>. 
   <br><br> 
 </p>
 <img title="s1" src="public/s2.png" alt ="Screenshot" />
