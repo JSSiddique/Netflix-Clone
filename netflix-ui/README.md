@@ -43,7 +43,6 @@ It's an image represent the movie, when you hover over it became bigger and it w
 # Database used
   <img title="TMDB" src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg" alt="TMDB" width="50" />  The Movie Database
 
-//***Take a look on the live version here:*** https://react-netflix-clone-red.vercel.app/ :octocat: :heart_eyes: 
 
 
 # Technology Used
